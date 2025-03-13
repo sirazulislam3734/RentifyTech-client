@@ -82,6 +82,8 @@ const Footer = () => {
           </ul>
         </div>
 
+        {/*  */}
+
         {/* Contact Info */}
         <div className="w-full md:w-1/4 mb-8">
           <h3 className="text-xl font-bold mb-4 pb-2 relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-12 after:h-0.5 after:bg-green-500">
