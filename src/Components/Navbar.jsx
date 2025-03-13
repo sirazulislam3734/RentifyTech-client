@@ -1,5 +1,3 @@
-
-
 const Navbar = () => {
   return (
     <div>
@@ -34,7 +32,7 @@ const Navbar = () => {
                 <a>Parent</a>
                 <ul className="p-2">
                   <li>
-                    <a>Submenu 1</a>
+                    <a>Submenu 10</a>
                   </li>
                   <li>
                     <a>Submenu 2</a>
