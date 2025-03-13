@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-300 pt-14 text-black py-12 px-6">
+    <footer className="bg-gray-200 pt-14 text-black py-12 px-6">
       <div className="max-w-6xl mx-auto flex flex-wrap justify-between">
         {/* Company Info */}
 
@@ -95,13 +95,13 @@ const Footer = () => {
               <span className="text-green-500 mr-2">
                 <i className="fa fa-map-marker"></i>
               </span>
-              123 Tech Street, Digital City
+             Uttara , Dhaka , Bangladesh
             </p>
             <p className="flex items-center text-black mb-2">
               <span className="text-green-500 mr-2">
                 <i className="fa fa-phone"></i>
               </span>
-              +1 (555) 123-4567
+            +880 01717171717
             </p>
             <p className="flex items-center text-gray-300 mb-2">
               <span className="text-green-500 mr-2">
