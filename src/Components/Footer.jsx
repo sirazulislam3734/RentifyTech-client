@@ -6,6 +6,7 @@ const Footer = () => {
     <footer className="bg-gray-300 pt-14  text-black py-12 px-6">
       <div className="max-w-6xl mx-auto flex flex-wrap justify-between">
         {/* Company Info */}
+        {/* this is a comment  */}
         <div className="w-full md:w-1/4 mb-8 pr-4">
           <h3 className="text-xl font-bold mb-4 pb-2 relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-12 after:h-0.5 after:bg-green-500">
             Gagete
