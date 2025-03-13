@@ -1,5 +1,3 @@
-
-
 const Navbar = () => {
   return (
     <div>
@@ -34,7 +32,7 @@ const Navbar = () => {
                 <a>Parent</a>
                 <ul className="p-2">
                   <li>
-                    <a>Submenu 1</a>
+                    <a>Submenu 10</a>
                   </li>
                   <li>
                     <a>Submenu 2</a>
@@ -46,7 +44,7 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl">daisyUI</a>
+          <a className="btn btn-ghost text-xl">RentifyTech</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
