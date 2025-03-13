@@ -4,69 +4,41 @@
       "name": "Wireless Headphones",
       "description": "High-quality sound with noise cancellation.",
       "price": "$199.99",
-      "imageUrl": "https://via.placeholder.com/300"
+      "imageUrl": "https://www.pngarts.com/files/9/Wireless-Headphones-PNG-Free-Download.png"
     },
     {
       "id": 2,
       "name": "Smart Watch",
       "description": "Track your fitness and stay connected.",
       "price": "$249.99",
-      "imageUrl": "https://via.placeholder.com/300"
+      "imageUrl": "https://www.pngall.com/wp-content/uploads/15/Apple-Watch-No-Background.png"
     },
     {
       "id": 3,
       "name": "Laptop Backpack",
       "description": "Durable and stylish backpack for professionals.",
       "price": "$59.99",
-      "imageUrl": "https://via.placeholder.com/300"
+      "imageUrl": "https://www.pngmart.com/files/22/Laptop-Bag-PNG-Isolated-Pic.png"
     },
     {
       "id": 4,
       "name": "Bluetooth Speaker",
       "description": "Portable speaker with 20-hour battery life.",
       "price": "$89.99",
-      "imageUrl": "https://via.placeholder.com/300"
+      "imageUrl": "https://www.pngall.com/wp-content/uploads/4/Portable-Speaker.png"
     },
     {
       "id": 5,
       "name": "Gaming Keyboard",
       "description": "Mechanical keyboard with RGB lighting.",
       "price": "$129.99",
-      "imageUrl": "https://via.placeholder.com/300"
+      "imageUrl": "https://pngimg.com/d/keyboard_PNG101839.png"
     },
     {
       "id": 6,
       "name": "4K Monitor",
       "description": "27-inch 4K UHD display for professionals.",
       "price": "$399.99",
-      "imageUrl": "https://via.placeholder.com/300"
-    },
-    {
-      "id": 7,
-      "name": "Wireless Mouse",
-      "description": "Ergonomic design with long battery life.",
-      "price": "$49.99",
-      "imageUrl": "https://via.placeholder.com/300"
-    },
-    {
-      "id": 8,
-      "name": "Noise-Cancelling Earbuds",
-      "description": "Compact and lightweight with great sound quality.",
-      "price": "$149.99",
-      "imageUrl": "https://via.placeholder.com/300"
-    },
-    {
-      "id": 9,
-      "name": "Portable Charger",
-      "description": "10000mAh power bank for all your devices.",
-      "price": "$29.99",
-      "imageUrl": "https://via.placeholder.com/300"
-    },
-    {
-      "id": 10,
-      "name": "Smart Home Hub",
-      "description": "Control all your smart devices from one place.",
-      "price": "$199.99",
-      "imageUrl": "https://via.placeholder.com/300"
+      "imageUrl": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08894694.png"
     }
   ]
