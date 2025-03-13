@@ -83,7 +83,7 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/*  */}
+        {/* vha  */}
 
         {/* Contact Info */}
         <div className="w-full md:w-1/4 mb-8">
